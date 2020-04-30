@@ -1,4 +1,4 @@
- 
+#IF JOINING PLS COMMIT NEWEST ONE!!! 
 import time as t
 print ("Altanio Conlang Dictionary Ver. 1 Alpha 1")
 t.sleep(2)
