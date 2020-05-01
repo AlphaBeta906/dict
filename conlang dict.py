@@ -11,7 +11,7 @@ while True:
     if question in words:
         question = question.lower()
         print (a[question] + " is " + question)
-    elif question == "end" or "END" or "e":
+    elif question == "E":
         print ("Ended")
         break
     else:
